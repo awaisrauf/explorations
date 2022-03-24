@@ -1,2 +1,2 @@
-# explorations
+# Explorations
 exploring things.
